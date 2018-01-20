@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/jovenpableo/Downloads/gvr-android-sdk-1.120.0/samples/sdk-treasurehunt/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 8,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "/Users/jovenpableo/.android/build-cache/f4158484d0911a98f726f6a8b68fb84fc25d9d8a/output/res/values-v21/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 147,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 237
+                    }
+                }
+            }
+        ]
+    }
+]
