@@ -1,4 +1,0 @@
-#Sat Jan 20 00:55:33 PST 2018
-base.0=/Users/jovenpableo/Downloads/gvr-android-sdk-1.120.0/samples/sdk-treasurehunt/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/jovenpableo/Downloads/gvr-android-sdk-1.120.0/samples/sdk-treasurehunt/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
